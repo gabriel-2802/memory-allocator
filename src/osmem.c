@@ -1,4 +1,3 @@
-// SPDX-License-Identifier: BSD-3-Clause
 #include <unistd.h>
 #include <string.h>
 #include <sys/mman.h>
